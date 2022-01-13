@@ -12,6 +12,8 @@ Zadanie jest bazowane na laboratorium numer 9. Właściwie to tylko klient (apli
 * Spectre.min.css - lekki szkielet css do utworzenia "layout-u" strony.
 * logo.svg - zmiana na (obliczeniową) chmurkę.
 
+Oprócz tego jedna z funkcji w index.js serwera Express została ograniczona do wyliczania maksymalnie dwudziestego elementu ciągu Fibonacciego.
+
 ## Uruchomienie usługi
 W katalogu głównym należy wywołać polecenie:
 
