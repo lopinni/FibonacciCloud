@@ -12,7 +12,7 @@ export default () => {
             <p>Zmiany obejmują:</p>
             <p>-- App.js - teraz daje możliwość przełączania się między podstronami,</p>
             <p>-- Fib.js - teraz pobiera dane z baz i posiada odnośnik do historii wyliczeń,</p>
-            <p>-- Default.js, History.js - nowe pliki, obsługują podstrony (główną i historii),</p>
+            <p>-- Default.js, History.js, Docs.js - nowe pliki, obsługują podstrony,</p>
             <p>-- Spectre.min.css - lekki szkielet css do utworzenia "layout-u" strony,</p>
             <p>-- logo.svg - zmiana na (obliczeniową) chmurkę.</p>
             <p>Oprócz tego jedna z funkcji w index.js serwera Express została ograniczona do wyliczania maksymalnie dwudziestego elementu ciągu Fibonacciego.</p>
