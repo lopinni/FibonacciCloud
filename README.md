@@ -8,7 +8,7 @@ Zadanie jest bazowane na laboratorium numer 9. Właściwie to tylko klient (apli
 
 * App.js - teraz daje możliwość przełączania się między podstronami,
 * Fib.js - teraz pobiera dane z baz i posiada odnośnik do historii wyliczeń,
-* Default.js, History.js - nowe pliki, obsługują podstrony (główną i historii),
+* Default.js, History.js, Docs.js - nowe pliki, obsługują podstrony,
 * Spectre.min.css - lekki szkielet css do utworzenia "layout-u" strony.
 * logo.svg - zmiana na (obliczeniową) chmurkę.
 
